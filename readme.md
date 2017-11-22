@@ -1,5 +1,4 @@
 # Application Based Web Development
-![Cover Image](https://drive.google.com/file/d/0B_m1UHGKbBjAU3F0ekdZWWVqTlk/view?usp=sharing)
 
 
 ## What is it?
@@ -7,7 +6,7 @@
 A project was developed for a making a better user experience and making website more elegant and easy to use. It also aimed to increase the market sales of company and also added a security feature(OTP System) to my data base. 
 
 
-![Check my Screenshots](https://drive.google.com/open?id=0B_m1UHGKbBjASS15SWtJal9PVGc)
+Check my Screenshots:(https://drive.google.com/open?id=0B_m1UHGKbBjASS15SWtJal9PVGc)
 
 ## Features
 
