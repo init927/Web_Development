@@ -33,6 +33,7 @@ Check my Screenshots:(https://drive.google.com/open?id=0B_m1UHGKbBjASS15SWtJal9P
 - php
 - MySQL
 - Xampp
+- PHP-Mailer
 
 
 ## Questions?
